@@ -1,0 +1,16 @@
+[
+  {"path": "/Engine/Config/StagedBuild_TPPWeb590.ini", "url": "Engine/Config/StagedBuild_TPPWeb590.ini", "size": 3, "sha1": "57218c316b6921e2cd61027a2387edc31a2d9471"},
+  {"path": "/Engine/Content/Renderer/TessellationTable.bin", "url": "Engine/Content/Renderer/TessellationTable.bin", "size": 259568, "sha1": "3a3402ca2d3531ab8352c818ea1181288bd78c72"},
+  {"path": "/Engine/GlobalShaderCache-SP_WEBGPU_ES3_1_DEFERRED.bin", "url": "Engine/GlobalShaderCache-SP_WEBGPU_ES3_1_DEFERRED.bin", "size": 855282, "sha1": "95d81915302bb20bd03281a32c518d19e600eb45"},
+  {"path": "/TPPWeb590/Content/Paks/TPPWeb590-Wasm.pak", "url": "TPPWeb590/Content/Paks/TPPWeb590-Wasm.pak", "size": 9126345, "sha1": "604d104d3405e191f7fce98a5c664cb372abe00a"},
+  {"path": "/TPPWeb590/Content/Paks/TPPWeb590-Wasm.ucas", "url": "TPPWeb590/Content/Paks/TPPWeb590-Wasm.ucas", "size": 36981344, "sha1": "5745e16fd8c12c1e9ec41449abe8da03665a74fa"},
+  {"path": "/TPPWeb590/Content/Paks/TPPWeb590-Wasm.utoc", "url": "TPPWeb590/Content/Paks/TPPWeb590-Wasm.utoc", "size": 106742, "sha1": "cb7b9eea46566833a7e1a85b5c23915b304bc5ef"},
+  {"path": "/TPPWeb590/Content/Paks/global.ucas", "url": "TPPWeb590/Content/Paks/global.ucas", "size": 16, "sha1": "e129f27c5103bc5cc44bcdf0a15e160d445066ff"},
+  {"path": "/TPPWeb590/Content/Paks/global.utoc", "url": "TPPWeb590/Content/Paks/global.utoc", "size": 206, "sha1": "feefe947075479c18ecefc4229e5e36a5e043313"},
+  {"path": "/TPPWeb590/Content/ShaderArchive-Global-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.ushaderbytecode", "url": "TPPWeb590/Content/ShaderArchive-Global-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.ushaderbytecode", "size": 5682546, "sha1": "3adfa03cad004b059eadc8e2330b2660bf3d0202"},
+  {"path": "/TPPWeb590/Content/ShaderArchive-TPPWeb590-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.ushaderbytecode", "url": "TPPWeb590/Content/ShaderArchive-TPPWeb590-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.ushaderbytecode", "size": 1916343, "sha1": "3048d5726041fd55fe0d120e62473b4ae353a8df"},
+  {"path": "/TPPWeb590/Content/ShaderAssetInfo-Global-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.assetinfo.json", "url": "TPPWeb590/Content/ShaderAssetInfo-Global-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.assetinfo.json", "size": 18290, "sha1": "976dfc1664a977c96093d60cc2abdae98a954a08"},
+  {"path": "/TPPWeb590/Content/ShaderAssetInfo-TPPWeb590-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.assetinfo.json", "url": "TPPWeb590/Content/ShaderAssetInfo-TPPWeb590-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.assetinfo.json", "size": 14657, "sha1": "4f3a2263a8561021eb7ef392a568f0bdc55eb079"},
+  {"path": "/TPPWeb590/Content/ShaderTypeInfo-Global-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.stinfo", "url": "TPPWeb590/Content/ShaderTypeInfo-Global-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.stinfo", "size": 23636, "sha1": "2a592415009c0cdae56eb560e887055ac543d558"},
+  {"path": "/TPPWeb590/Content/ShaderTypeInfo-TPPWeb590-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.stinfo", "url": "TPPWeb590/Content/ShaderTypeInfo-TPPWeb590-SF_WEBGPU_ES3_1_DEFERRED-SP_WEBGPU_ES3_1_DEFERRED.stinfo", "size": 7828, "sha1": "9b754b770b4e9d202b3477e0f85711b5f21698c0"}
+]
